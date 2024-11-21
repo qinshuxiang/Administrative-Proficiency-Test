@@ -1,0 +1,12 @@
+.DS_Store 
+.AppleDouble 
+.LSOverride
+.idea/
+
+*.bak
+*.tmp
+*.log
+
+.env
+
+private/
